@@ -1,5 +1,5 @@
 # PyStore.py
-=====================================
+=========================================
  An simple-to-use!
  Just start by entering the
  releases tab and install the .py!
@@ -9,4 +9,4 @@
  ok?
  Btw u also need tqdm, requests,
  and win10toast (each are packages).
-=====================================
+=========================================
